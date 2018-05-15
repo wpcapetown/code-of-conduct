@@ -7,14 +7,14 @@
 * Do not harass others
 * Do not share personal information of others to people outside the community
 * All content must be "safe for work"
-* Job opportunities can be posted in [#jobpostings](https://wpcapetown.slack.com/messages/jobpostings/), professional recruitment is not allowed
+* Job opportunities can be posted in [#jobpostings](https://wpsa.slack.com/messages/jobpostings/), professional recruitment is not allowed
 * Don't spam the channels with links, or links to pages, for the purpose of monetization of user views and which provide no value to the community
 
 This is a safe space, let's keep it that way.
 
 ## Code of Conduct
 
-“WPSA” in this document refers to the WordPress South Africa Slack organization at [https://wpcapetown.slack.com/](https://wpcapetown.slack.com/). “The administrators” refers to the administrators on this organization, a [list is available at the top of the Team Directory](https://wpcapetown.slack.com/team) (must be a member of the organization to view).
+“WPSA” in this document refers to the WordPress South Africa Slack organization at [https://wpsa.slack.com/](https://wpsa.slack.com/). “The administrators” refers to the administrators on this organization, a [list is available at the top of the Team Directory](https://wpsa.slack.com/team) (must be a member of the organization to view).
 
 WPSA is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
@@ -47,7 +47,7 @@ The WPSA group, and its admins, acknowledge that finding skilled people in South
 
 * Unsolicited professional recruiting is not allowed on the WPSA group under any circumstances.
 * Users (including admins) may not under any circumstances share personal details of WPSA members with recruiters without that user's explicit consent.
-* Advertising an opportunity in brief within the [#jobpostings channel](https://wpcapetown.slack.com/messages/jobpostings/) is acceptable. Further discussions must happen via direct messages.
+* Advertising an opportunity in brief within the [#jobpostings channel](https://wpsa.slack.com/messages/jobpostings/) is acceptable. Further discussions must happen via direct messages.
 * Opportunities must not, under any circumstances, use referral program links where the poster of the message could benefit, e.g. via earning a commission.
 
 We value being able to attract talent to our teams, and a brief message should allow it. New teams in particular are encouraged to post a "We're hiring" message.
@@ -58,7 +58,7 @@ While the community aims to be a place for members of the community to meet and 
 
 ## Reporting
 
-If you are being harassed by a member of WPSA, notice that someone else is being harassed, or have any other concerns, please [contact an admin](https://wpcapetown.slack.com/team) directly via DM. Administrators will respond as soon as they are able. If the person who is harassing you is on the admin team, they will recuse themselves from handling your incident.
+If you are being harassed by a member of WPSA, notice that someone else is being harassed, or have any other concerns, please [contact an admin](https://wpsa.slack.com/team) directly via DM. Administrators will respond as soon as they are able. If the person who is harassing you is on the admin team, they will recuse themselves from handling your incident.
 
 This code of conduct applies to WPSA spaces, but if you are being harassed by a member of WPSA outside of our spaces, we still want to know about it. We will take all good-faith reports of harassment by WPSA members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from WPSA based on their past behavior, including behavior outside WPSA spaces and behavior towards people who are not members of the WPSA community.
 
@@ -75,7 +75,7 @@ Classes of content which we deem to be unsuitable include:
  - Depictions of physical or emotional abuse, either in graphic or text form.
  - Persecution of any individual as a result of their race, gender, religion or other physical traits.
  - Material intended to, without basis, harm the reputation of any individual whether a member or not.
- - Unsolicited advertising with the exception of job offers in the [#jobpostings](https://wpcapetown.slack.com/messages/jobpostings/) channel.
+ - Unsolicited advertising with the exception of job offers in the [#jobpostings](https://wpsa.slack.com/messages/jobpostings/) channel.
  - Links, or links to pages, for the purpose of monetization of user views and which provide no value to the WPSA community.
 
 As a quick self-check, ask yourself whether you would like someone's child to see the content you are posting. If the answer is "no", then there's a good chance you shouldn't be posting it on the WPSA community.
