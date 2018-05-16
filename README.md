@@ -22,6 +22,8 @@ This code of conduct applies to all WPSA spaces, including public channels, priv
 
 Some WPSA spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
+While we do not discourage members from other countries, the WPSA Slack organization was created by and for the WordPress community of South Africa. Any abuse of this Code of Conduct, or unwanted behavior, from folks outside of South Africa will not be tolerated.
+
 Harassment includes:
 
 * Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, or religion
