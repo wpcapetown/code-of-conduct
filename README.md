@@ -46,7 +46,7 @@ Harassment includes:
 
 ## Conduct specific to work requests
 
-The WPSA Slack community was created by and for the WordPress community of South Africa. While we do not prohibit folks from other countries joining our Slack community, *if you are outside of South Africa please do not join for the specific purpose of seeking work*. If we find non-South African members who have only joined because they are looking for freelance projects or any other work, the admins will take any steps that they deem necessary, including revoking your membership and removing you from the WPSA Slack community.
+The WPSA Slack community was created by and for the WordPress community of South Africa. While we do not prohibit folks from other countries joining our Slack community, __if you are outside of South Africa please do not join for the specific purpose of seeking work__. If we find non-South African members who have only joined because they are looking for freelance projects or any other work, the admins will take any steps that they deem necessary, including revoking your membership and removing you from the WPSA Slack community.
 
 ## Conduct specific to recruitment activities
 
