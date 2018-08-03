@@ -8,6 +8,7 @@
 * Do not share personal information of others to people outside the community
 * All content must be "safe for work"
 * Job opportunities can be posted in [#jobpostings](https://wpsa.slack.com/messages/jobpostings/), professional recruitment is not allowed
+* Don't join for the specific purpose of seeking work
 * Don't spam the channels with links, or links to pages, for the purpose of monetization of user views and which provide no value to the community
 
 This is a safe space, let's keep it that way.
@@ -42,6 +43,10 @@ Harassment includes:
 * Continued one-on-one communication after requests to cease
 * Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse
 * Publication of non-harassing private communication
+
+## Conduct specific to work requests
+
+The WPSA Slack community was created by and for the WordPress community of South Africa. While we do not prohibit folks from other countries joining our Slack community, if you are outside of South Africa please do not join for the specific purpose of seeking work. If we find non-South African members who have only joined because they are looking for freelance projects or any other work, the admins will take any steps that they deem necessary, including revoking your membership and removing you from the WPSA Slack community.
 
 ## Conduct specific to recruitment activities
 
