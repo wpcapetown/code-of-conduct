@@ -15,7 +15,7 @@ This is a safe space, let's keep it that way.
 
 ## Code of Conduct
 
-“WPSA” in this document refers to the WordPress South Africa Slack organization at [https://wpsa.slack.com/](https://wpsa.slack.com/). “The admins” refers to the community representatives of the WordPress South Africa community, who are also administrators on the WPSA Slack, a [list is available at the top of the Team Directory](https://wpsa.slack.com/team) (must be a member of the organization to view).
+“WPSA” in this document refers to the WordPress South Africa Slack organization at [https://wpsa.slack.com/](https://wpsa.slack.com/). “The admins” refers to the community representatives of the WPSA community, who are also administrators on the WPSA Slack, a [list is available at the top of the Team Directory](https://wpsa.slack.com/team) (must be a member of the organization to view).
 
 WPSA is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
