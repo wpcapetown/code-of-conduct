@@ -99,7 +99,7 @@ Intentionally evading exclusions, bans, suspensions, restrictions, or otherwise 
 The Operators may, but are not obligated to, monitor or review any areas on the Slack where users transmit or post communications or communicate solely with each other, including but not limited to public and private channels, and the content of any such communications. The Operators, however, will have no liability related to the content of any such communications, whether or not arising under the laws of copyright, libel, privacy, obscenity, or otherwise. The Operators may edit or remove content on the the Slack at their discretion at any time.
 
 ## Changes
-If you feel there are aspects to this code of conduct which should be modified, please open a pull request with your suggested changes at [https://github.com/wpcapetown/code-of-conduct](https://github.com/wpcapetown/code-of-conduct).
+If you feel there are aspects to this code of conduct which should be modified, please open a pull request with your suggested changes at [https://github.com/wpsouthafrica/code-of-conduct](https://github.com/wpsouthafrica/code-of-conduct).
 
 ## Credits
 
